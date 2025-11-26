@@ -49,7 +49,7 @@ Sitio público de RockCode con demos de:
 
 - **Frontend:** HTML, CSS, Bootstrap 5, React, TypeScript. Cursando actualmente el Certificado profesional     de DESARROLLO DE APLICACIONES FRONT-END TRAINEE V2.0 de SENCE
   (2025)
-- **Gestión de Proyectos** Cursando actualmente el Certificado profesional de Google Project Management
+- **Gestión de Proyectos:** Cursando actualmente el Certificado profesional de Google Project Management
   (2025)
 - **Data / backend ligero:** CSV, JSON, APIs simples
 - **GovTech / GovDX:** demos AA, formularios, buscadores, herramientas internas
