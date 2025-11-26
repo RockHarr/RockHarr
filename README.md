@@ -1,4 +1,4 @@
-# Hola, soy Rockwell (Spark) 👋
+# Hola, soy Rockwell 👋
 
 Desarrollador frontend / fullstack desde Chile y fundador de **ROCKCODE SPA**.
 
@@ -47,11 +47,11 @@ Sitio público de RockCode con demos de:
 
 ## 🛠️ Stack y gustos
 
-- **Frontend:** HTML, CSS, Bootstrap 5, React, TypeScript
+- **Frontend:** HTML, CSS, Bootstrap 5, React, TypeScript. Cursando actualmente el Certificado profesional de DESARROLLO DE APLICACIONES FRONT-END TRAINEE V2.0 de SENCE 
 - **Data / backend ligero:** CSV, JSON, APIs simples
 - **GovTech / GovDX:** demos AA, formularios, buscadores, herramientas internas
 - **IA:** uso fuerte de IA (GPT-5 Thinking, Gemini, etc.) como copilotos en código y diseño
-
+- - **Gestión de Proyectos** Cursando actualmente el Certificado profesional de Google Project Management
 ---
 
 ## 📬 Contacto
